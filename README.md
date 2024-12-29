@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivang-Bajaj30
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python Programming Language
+- 🌱 I’m currently learning Java Spring Boot Framework and have already learned Pythom, Web Development(html, css, js) and Java
 - 📫 Contact info: My Email - shivang.bajaj30@gmail.com
 
 <!---
